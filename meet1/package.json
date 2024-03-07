@@ -1,0 +1,16 @@
+{
+  "name": "hands-on-npm",
+  "version": "1.0.0",
+  "description": "start learn npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KuraoHikari",
+  "license": "ISC",
+  "dependencies": {
+    "anime-wallpaper": "^2.0.0",
+    "unique-names-generator": "^4.7.1"
+  }
+}
